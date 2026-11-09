@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+# Las imágenes que suben los usuarios no se versionan
+wwwroot/actores/
+wwwroot/productoras/
+wwwroot/peliculas/
